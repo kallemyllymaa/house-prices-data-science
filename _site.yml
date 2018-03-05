@@ -1,0 +1,11 @@
+name: "House prices analysis"
+navbar:
+  title: "House prices"
+  left:
+    - text: "Home"
+      href: index.html
+output_dir: "docs"
+output:
+  html_document:
+    theme: united
+exclude: ["LICENSE", "README.md"]
